@@ -1,0 +1,17 @@
+@media (max-width: 1200px){
+    .promo {
+    .header{
+    width: 836px;
+    }
+    &__wrapper{
+       margin-right: 150px;
+    }
+    }
+    .advantages{
+         &__wrapper{
+            width: 836px;
+            align-items: flex-start;
+        }
+    }
+}
+
